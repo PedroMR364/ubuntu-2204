@@ -122,7 +122,7 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 
 	_ 06. Network connections
 	_		enp0s3 eth
-	_		DHCPv4 192.168.0.54/24
+	_		DHCPv4 10.26.44.X/24
 			OBSERVAÇÃO IMPORTANTE: VERIFICAR O ENDEREÇO IPv4 QUE VOCÊ ESTÁ USANDO NA SUA
 			REDE INTERNA.
 	_ 	<Done>
