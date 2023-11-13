@@ -72,7 +72,7 @@ var app = express();
 
 // Mensagem que será mostrada no browser (navegador) 
 app.get('/', function (req, res) {
-	res.send('Seu Nome e Sobrenome #SenacTatuape!!!');
+	res.send('Pedro Miranda #SenacTatuape!!!');
 });
 
 // Porta padrão utilizada pela aplicação do Node.JS
